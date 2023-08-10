@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tommobosha.github.io/React-TS-Project/static/css/main.5a91255b.css",
+    "main.js": "/tommobosha.github.io/React-TS-Project/static/js/main.3922683a.js",
+    "index.html": "/tommobosha.github.io/React-TS-Project/index.html",
+    "main.5a91255b.css.map": "/tommobosha.github.io/React-TS-Project/static/css/main.5a91255b.css.map",
+    "main.3922683a.js.map": "/tommobosha.github.io/React-TS-Project/static/js/main.3922683a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a91255b.css",
+    "static/js/main.3922683a.js"
+  ]
+}
